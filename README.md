@@ -12,7 +12,7 @@
               ||     ||
 </pre>
 
-I am a Fullstack Engineer with background and electronics engineering. I am currently working for [Fusion](https://gofusion.io). Outside of work, I contribute to open source projects such as [School Tag](https://schooltag.org/) and various other projects. 👋
+I am a fullstack engineer with background in electronics ngineering. I am currently working for [Fusion](https://gofusion.io). Outside of work, I contribute to open source projects such as [School Tag](https://schooltag.org/) and various other projects. 👋
 
 ### Check out my social medias:
 
