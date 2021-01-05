@@ -6,35 +6,22 @@
 <h1 align="center">
 I'm Simen 🙋‍♂
 </h1>
-I am a Full stack Developer & Mentor. I love experimenting with new technologies and building small projects.
+I am a Full stack Developer & Electronics Engineer. I love experimenting with hardware and software.
 
-- 💻  Working as a **Fullstack Developer** for [Cropdesk Technologies](https://www.cropdesk.com/).
-- 👨‍🏫  Working as a **student mentor** for [Code Institute](https://codeinstitute.net/)
-- 🦄  Creator of [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln)
-- 👨‍🎨  Creator of [Bootstrap 4 CDN Snippet](https://marketplace.visualstudio.com/items?itemName=eventyret.bootstrap-4-cdn-snippet)
-- ✨  Creator of [Padawan](https://github.com/Eventyret/Padawan)
-- 🐳  Love everything with docker 💙
-- While Coding, Listening Music  🎧 🎶  and developing useful code. ⭐️
-- Active trophy hunter for PS4! Gotta get those 🏆
+- 💻  Working as a **Fullstack Developer** for [Fusion](https://gofusion.io/).
+- 👨‍🏫  Working as a **Opensource Contributor** for [School Tag](https://schooltag.org/)
+- 🦄  Creator of [Forest AI](https://https://www.forestai.tech/)
+- 💙 Love everything with React  ⚛️
+- While Coding, Building antennas 📡 & Sensor nodes 📟  and trackers 🌎
 
-### Languages I Know
+### Languages & Libraries I Know
 
 ![HTML](https://img.shields.io/static/v1?label=HTML&message=5&color=E34F26&style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/static/v1?label=CSS&message=3&color=1572B6&style=for-the-badge&logo=css3)
 ![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=ES8&style=for-the-badge&color=F7DF1E&logo=JavaScript)
-![Dart](https://img.shields.io/static/v1?label=Dart&message=2.9.0&color=00B5AC&style=for-the-badge&logo=dart)
-![Typescript](https://img.shields.io/static/v1?label=TypeScript&message=3.9&color=007ACC&style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/static/v1?label=React&message=3.9&color=007ACC&style=for-the-badge&logo=React)
 ![Python](https://img.shields.io/static/v1?label=Python&style=for-the-badge&message=3&color=3776AB&logo=PYTHON)
-![SCSS](https://img.shields.io/static/v1?label=sass&style=for-the-badge&message=🦄&color=CC6699&logo=sass)
 
-### Libraries || Frameworks I use
-
-![Flutter](https://img.shields.io/static/v1?label=Flutter&message=1.19&color=02569B&style=for-the-badge&logo=flutter)
-![Angular](https://img.shields.io/static/v1?label=Angular&message=11&color=E34F26&style=for-the-badge&logo=angular)
-![Strapi](https://img.shields.io/static/v1?label=Strapi&message=3.x&color=5744BC&style=for-the-badge&logo=strapi)
-![Flask](https://img.shields.io/static/v1?label=Flask&style=for-the-badge&message=1.1.2&color=181717&logo=flask)
-![Django](https://img.shields.io/static/v1?label=Django&style=for-the-badge&message=3.0.8&color=092E20&logo=django)
-![Ionic](https://img.shields.io/static/v1?label=Ionic&style=for-the-badge&message=5&color=3880ff&logo=ionic)
 
 ### Tech I use
 
@@ -45,8 +32,8 @@ I am a Full stack Developer & Mentor. I love experimenting with new technologies
 ![Firebase](https://img.shields.io/static/v1?label=Firebase&style=for-the-badge&message=7.16.0&color=FFCA28&logo=firebase)
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=eventyret&count_private=true&show_icons=true&hide_title=true&theme=cobalt" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eventyret&layout=compact&theme=cobalt" />
+    <img src="https://github-readme-stats.vercel.app/api?username=singh-vikas-m&count_private=true&show_icons=true&hide_title=true&theme=cobalt" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singh-vikas-m&layout=compact&theme=cobalt" />
 </p>
 
 <hr>
@@ -54,10 +41,9 @@ I am a Full stack Developer & Mentor. I love experimenting with new technologies
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 
   <p align="center">
-    <a href="https://twitter.com/eventyret" alt="Twitter" target="_blank"><img src="https://github.com/eventyret/eventyret/blob/master/assets/twitter.png"></a>
-    <a href="https://www.linkedin.com/in/simendaehlin" alt="Linkedin" target="_blank"><img src="https://github.com/eventyret/eventyret/blob/master/assets/linkedin.png"></a>
-    <a href="https://www.instagram.com/eventyret" alt="Instagram" target="_blank"><img src="https://github.com/eventyret/eventyret/blob/master/assets/insta.png"></a>
-    <a href="https://github.com/eventyret" alt="GitHub" target="_blank"><img src="https://github.com/eventyret/eventyret/blob/master/assets/github.png"></a>
+    <a href="https://twitter.com/dr_viktor_stark" alt="Twitter" target="_blank"><img src="https://github.com/singh-vikas-m/singh-vikas-m/blob/master/assets/twitter.png"></a>
+    <a href="https://www.linkedin.com/in/vikas-singh-5ab6a113b/" alt="Linkedin" target="_blank"><img src="https://github.com/singh-vikas-m/singh-vikas-m/blob/master/assets/insta.png"></a>
+    <a href="https://github.com/singh-vikas-m" alt="GitHub" target="_blank"><img src="https://github.com/singh-vikas-m/singh-vikas-m/blob/master/assets/github.png"></a>
 
   </p>
   
