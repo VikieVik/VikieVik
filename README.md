@@ -4,15 +4,15 @@
 </p>
 
 <h1 align="center">
-I'm Simen 🙋‍♂
+I'm Vikas 🙋‍♂
 </h1>
 I am a Full stack Developer & Electronics Engineer. I love experimenting with hardware and software.
 
 - 💻  Working as a **Fullstack Developer** for [Fusion](https://gofusion.io/).
 - 👨‍🏫  Working as a **Opensource Contributor** for [School Tag](https://schooltag.org/)
-- 🦄  Creator of [Forest AI](https://https://www.forestai.tech/)
+- 🦄  Creator of [Forest AI](https://https://forestai.tech/)
 - 💙 Love everything with React  ⚛️
-- While Coding, Building antennas 📡 & Sensor nodes 📟  and trackers 🌎
+- While Coding, Building antennas 📡  & Sensor nodes 📟   and trackers  🌎
 
 ### Languages & Libraries I Know
 
@@ -41,9 +41,9 @@ I am a Full stack Developer & Electronics Engineer. I love experimenting with ha
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 
   <p align="center">
-    <a href="https://twitter.com/dr_viktor_stark" alt="Twitter" target="_blank"><img src="https://github.com/singh-vikas-m/singh-vikas-m/blob/master/assets/twitter.png"></a>
-    <a href="https://www.linkedin.com/in/vikas-singh-5ab6a113b/" alt="Linkedin" target="_blank"><img src="https://github.com/singh-vikas-m/singh-vikas-m/blob/master/assets/insta.png"></a>
-    <a href="https://github.com/singh-vikas-m" alt="GitHub" target="_blank"><img src="https://github.com/singh-vikas-m/singh-vikas-m/blob/master/assets/github.png"></a>
+    <a href="https://twitter.com/dr_viktor_stark" alt="Twitter" target="_blank"><img src="https://github.com/singh-vikas-m/singh-vikas-m/tree/main/assets/twitter.png"></a>
+    <a href="https://www.linkedin.com/in/vikas-singh-5ab6a113b/" alt="Linkedin" target="_blank"><img src="https://github.com/singh-vikas-m/singh-vikas-m/tree/main/assets/insta.png"></a>
+    <a href="https://github.com/singh-vikas-m" alt="GitHub" target="_blank"><img src="https://github.com/singh-vikas-m/singh-vikas-m/tree/main/assets/github.png"></a>
 
   </p>
   
