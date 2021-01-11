@@ -10,7 +10,7 @@ I am a Full stack Developer & Electronics Engineer. I love experimenting with ha
 
 - 💻  Working as a **Fullstack Developer** for [Fusion](https://gofusion.io/).
 - 👨‍🏫  Working as a **Opensource Contributor** for [School Tag](https://schooltag.org/)
-- 🦄  Creator of [Forest AI](https://https://forestai.tech/)
+- 🦄  Creator of [Forest AI](https://forestai.tech/)
 - 💙 Love everything with React  ⚛️
 - While Coding, Building antennas 📡  & Sensor nodes 📟   and trackers  🌎
 
