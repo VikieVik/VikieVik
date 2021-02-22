@@ -12,7 +12,7 @@ I am a Full stack Developer & Electronics Engineer. I love experimenting with ha
 - 👨‍🏫  Working as a **Opensource Contributor** for [School Tag](https://schooltag.org/)
 - 🦄  Creator of [Forest AI](https://forestai.tech/)
 - 💙 Love everything with React  ⚛️
-- While Coding, Building antennas 📡  & Sensor nodes 📟   and trackers  🌎
+- While Coding, Building antennas 📡 , Sensor nodes 📟   & trackers  🌎
 
 ### Languages & Libraries I Know
 
