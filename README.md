@@ -41,7 +41,7 @@ I am a Full stack Developer & Electronics Engineer. I love experimenting with ha
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 
   <p align="center">
-    <a href="https://twitter.com/dr_viktor_stark" alt="Twitter" target="_blank"><img src="https://github.com/singh-vikas-m/singh-vikas-m/blob/main/assets/twitter.png"></a>
+    <a href="https://twitter.com/dr_viktor_doom" alt="Twitter" target="_blank"><img src="https://github.com/singh-vikas-m/singh-vikas-m/blob/main/assets/twitter.png"></a>
     <a href="https://www.linkedin.com/in/vikas-singh-5ab6a113b/" alt="Linkedin" target="_blank"><img src="https://github.com/singh-vikas-m/singh-vikas-m/blob/main/assets/linkedin.png"></a>
     <a href="https://github.com/singh-vikas-m" alt="GitHub" target="_blank"><img src="https://github.com/singh-vikas-m/singh-vikas-m/blob/main/assets/github.png"></a>
 
