@@ -8,7 +8,7 @@ I'm Vikas 🙋‍♂
 </h1>
 I am a Full stack Developer & Electronics Engineer. I love experimenting with hardware and software.
 
-- 💻  Working as a **Fullstack Developer** for [Fusion](https://gofusion.io/).
+- 💻  Working as a **Fullstack Developer** for [Fusion](https://fusionhq.co/).
 - 👨‍🏫  Working as a **Opensource Contributor** for [School Tag](https://schooltag.org/)
 - 🦄  Creator of [Forest AI](https://forestai.web.app/)
 - 💙 Love everything with React  ⚛️
