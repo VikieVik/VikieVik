@@ -9,7 +9,7 @@ I'm Vikas 🙋‍♂
 I am a Full stack Developer & Electronics Engineer. I love experimenting with hardware and software.
 
 
-- ∞ **Product engineer(Founding team)** at [Looppanel](https://looppanel.com/).
+- ∞   **Product engineer(Founding team)** at [Looppanel](https://looppanel.com/).
 - 🦖  **Founding engineer** at [Leadzilla](https://leadzilla.ai/).
 - 💻  **Open-source maintainer** of product analytics suite [Fusion](https://fusionhq.co/).
 - 👨‍🏫  Working as a **Opensource Contributor** for [School Tag](https://schooltag.org/)
