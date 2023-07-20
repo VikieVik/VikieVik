@@ -12,7 +12,7 @@ eat, sleep, and breathe Startup
 
 - ∞   **Product engineer(Founding team)** at [Looppanel](https://looppanel.com/).
 - 🦖  **Founding engineer** at [Leadzilla](https://leadzilla.ai/).
-- 💻  **Open-source maintainer** of product analytics suite [Fusion](https://fusionhq.co/).
+- 💻  **Open-source maintainer** of product analytics suite [Fusion](https://github.com/fusion-hq/fusion).
 - 👨‍🏫  Working as a **Opensource Contributor** for [School Tag](https://schooltag.org/)
 - 🦄  Creator of [Forest AI](https://forestai.web.app/)
 - 💙 Love everything with React  ⚛️
