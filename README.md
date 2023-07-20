@@ -6,8 +6,9 @@
 <h1 align="center">
 I'm Vikas 🙋‍♂
 </h1>
-I am a Full stack Developer & Electronics Engineer. I love experimenting with hardware and software.
-eat, sleep, and breathe Startup
+I am a Full stack Developer (Remote) & Electronics Engineer. 
+I love experimenting with hardware and software.
+I Eat, sleep, and breathe Startup
 
 
 - ∞   **Product engineer(Founding team)** at [Looppanel](https://looppanel.com/).
@@ -24,7 +25,9 @@ eat, sleep, and breathe Startup
 ![CSS](https://img.shields.io/static/v1?label=CSS&message=3&color=1572B6&style=for-the-badge&logo=css3)
 ![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=ES8&style=for-the-badge&color=F7DF1E&logo=JavaScript)
 ![React](https://img.shields.io/static/v1?label=React&message=3.9&color=007ACC&style=for-the-badge&logo=React)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Python](https://img.shields.io/static/v1?label=Python&style=for-the-badge&message=3&color=3776AB&logo=PYTHON)
+
 
 
 ### Tech I use
