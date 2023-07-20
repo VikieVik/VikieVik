@@ -7,6 +7,7 @@
 I'm Vikas 🙋‍♂
 </h1>
 I am a Full stack Developer & Electronics Engineer. I love experimenting with hardware and software.
+eat, sleep, and breathe Startup
 
 
 - ∞   **Product engineer(Founding team)** at [Looppanel](https://looppanel.com/).
