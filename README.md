@@ -35,8 +35,8 @@ I am a Full stack Developer & Electronics Engineer. I love experimenting with ha
 ![Firebase](https://img.shields.io/static/v1?label=Firebase&style=for-the-badge&message=7.16.0&color=FFCA28&logo=firebase)
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=singh-vikas-m&count_private=true&show_icons=true&hide_title=true&theme=cobalt" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singh-vikas-m&layout=compact&theme=cobalt" />
+    <img src="https://github-readme-stats.vercel.app/api?username=VikieVik&count_private=true&show_icons=true&hide_title=true&theme=cobalt" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikieVik&layout=compact&theme=cobalt" />
 </p>
 
 <hr>
@@ -44,9 +44,9 @@ I am a Full stack Developer & Electronics Engineer. I love experimenting with ha
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 
   <p align="center">
-    <a href="https://twitter.com/dr_viktor_doom" alt="Twitter" target="_blank"><img src="https://github.com/singh-vikas-m/singh-vikas-m/blob/main/assets/twitter.png"></a>
-    <a href="https://www.linkedin.com/in/vikas-singh-5ab6a113b/" alt="Linkedin" target="_blank"><img src="https://github.com/singh-vikas-m/singh-vikas-m/blob/main/assets/linkedin.png"></a>
-    <a href="https://github.com/singh-vikas-m" alt="GitHub" target="_blank"><img src="https://github.com/singh-vikas-m/singh-vikas-m/blob/main/assets/github.png"></a>
+    <a href="https://twitter.com/dr_viktor_doom" alt="Twitter" target="_blank"><img src="https://github.com/VikieVik/VikieVik/blob/main/assets/twitter.png"></a>
+    <a href="https://www.linkedin.com/in/vikas-singh-5ab6a113b/" alt="Linkedin" target="_blank"><img src="https://github.com/VikieVik/VikieVik/blob/main/assets/linkedin.png"></a>
+    <a href="https://github.com/VikieVik" alt="GitHub" target="_blank"><img src="https://github.com/VikieVik/VikieVik/blob/main/assets/github.png"></a>
 
   </p>
   
