@@ -4,7 +4,8 @@
 </p>
 
 <h1 align="center">
-I'm Vikas 🙋‍♂
+I'm Bruce Wayne 🙋‍♂
+(but people call me, Vikas)
 </h1>
 I am a Full stack Developer (Remote) & Electronics Engineer. 
 I love experimenting with hardware and software.
